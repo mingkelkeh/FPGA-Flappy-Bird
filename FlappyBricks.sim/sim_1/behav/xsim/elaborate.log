@@ -1,0 +1,12 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto a5ee679e3e0d4b548536adac87c3e63f --incr --debug typical --relax --mt 2 -L xil_defaultlib -L blk_mem_gen_v8_4_4 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot flappybird_behav xil_defaultlib.flappybird xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 19 differs from formal bit length 17 for port 'BRAM_PORTA_0_addr' [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v:270]
+WARNING: [VRFC 10-3091] actual bit length 12 differs from formal bit length 16 for port 'BRAM_PORTA_0_din' [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v:272]
+WARNING: [VRFC 10-3091] actual bit length 8 differs from formal bit length 16 for port 'BRAM_PORTA_0_dout' [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v:273]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'hs' is not permitted [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v:4]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'vs' is not permitted [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v:5]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../" \
+"../../../../FlappyBricks.ip_user_files/bd/intropg/ip/intropg_blk_mem_gen_0_0/sim/intropg_blk_mem_gen_0_0.v" \
+"../../../../FlappyBricks.ip_user_files/bd/intropg/sim/intropg.v" \
+"../../../clkdiv.v" \
+"../../../seg_decoder.v" \
+"../../../seven_seg.v" \
+"../../../vgaRGB.v" \
+"../../../vgaSync.v" \
+"../../../flappybird.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

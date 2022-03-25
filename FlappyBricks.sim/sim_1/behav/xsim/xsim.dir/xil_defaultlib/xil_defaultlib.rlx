@@ -1,0 +1,14 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.ip_user_files/bd/intropg/ip/intropg_blk_mem_gen_0_0/sim/intropg_blk_mem_gen_0_0.v,1639232239,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.ip_user_files/bd/intropg/sim/intropg.v,,intropg_blk_mem_gen_0_0,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.ip_user_files/bd/intropg/sim/intropg.v,1639232235,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/clkdiv.v,,intropg,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/Definition.h,1606710234,verilog,,,,,,,,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/clkdiv.v,1639136756,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/seg_decoder.v,,clockdiv,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/flappybird.v,1639136766,verilog,,,,flappybird,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/seg_decoder.v,1638864198,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/seven_seg.v,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/Definition.h,seg_decoder,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/seven_seg.v,1606652634,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/Definition.h,seven_seg,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v,1639232616,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v,,vgaRGB,,,../../../,,,,,
+C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v,1638871478,verilog,,C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/flappybird.v,,vgaSync,,,../../../,,,,,

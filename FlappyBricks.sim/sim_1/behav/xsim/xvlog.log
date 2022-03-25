@@ -1,0 +1,23 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.ip_user_files/bd/intropg/ip/intropg_blk_mem_gen_0_0/sim/intropg_blk_mem_gen_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module intropg_blk_mem_gen_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.ip_user_files/bd/intropg/sim/intropg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module intropg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/clkdiv.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clockdiv
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/seg_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/seven_seg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seven_seg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vgaRGB
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'start' is not allowed [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v:17]
+INFO: [VRFC 10-2458] undeclared symbol BRAM_PORTA_0_clk, assumed default net type wire [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaRGB.v:271]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vgaSync
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'hs' is not allowed [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v:11]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'vs' is not allowed [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v:12]
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'videoen' is not allowed [C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/vgaSync.v:13]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/flappybird.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module flappybird
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/michelshane/Desktop/Year4/ECE260/ECE260/Mini_proj/FlappyBird/FlappyBricks/FlappyBricks.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
